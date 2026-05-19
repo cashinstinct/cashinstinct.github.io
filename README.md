@@ -15,6 +15,7 @@
 | [HP Instant Ink](https://cashinstinct.github.io/hp-instant-ink/) | Impression & encre | `SVdn7` | 1 mois gratuit |
 | [Stickermule](https://cashinstinct.github.io/stickermule/) | Autocollants & merch | `CASHINSTINCT` | Crédit 12,50 $ CAD sur la première commande |
 | [Rakuten Canada](https://cashinstinct.github.io/rakuten-canada/) | Cashback en ligne | [Lien](https://cashinstinct.github.io/rakuten-canada/) | Bonus 30 $ CAD |
+| [Swagbucks](https://cashinstinct.github.io/swagbucks-canada/) | Récompenses Sondaes | [Lien](https://cashinstinct.github.io/swagbucks-canada/) | Bonus 300 SB |
 | [Tangerine](https://cashinstinct.github.io/tangerine-orange-key/) | Banque en ligne | `14130944S1` | Bonus 50 $ CAD d'activation |
 | [Achieva Financial](https://cashinstinct.github.io/achieva-referral-code/) | Épargne en ligne | `V381566198` | Bonus 25 $ CAD à l'ouverture |
 
@@ -41,6 +42,7 @@ Repos associés :
 - [`hp-instant-ink`](https://github.com/cashinstinct/hp-instant-ink)
 - [`stickermule`](https://github.com/cashinstinct/stickermule)
 - [`rakuten-canada`](https://github.com/cashinstinct/rakuten-canada)
+- [`swagbucks-canada`](https://github.com/cashinstinct/swagbucks-canada)
 - [`tangerine-orange-key`](https://github.com/cashinstinct/tangerine-orange-key)
 - [`achieva-referral-code`](https://github.com/cashinstinct/achieva-referral-code)
     
